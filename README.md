@@ -38,6 +38,7 @@
 ![Expressjs](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
 ![Sequelize](https://img.shields.io/badge/sequelize-323330?style=flat-square&logo=sequelize&logoColor=blue)
 ![JsonWebToken](https://img.shields.io/badge/json%20web%20tokens-323330?style=flat-square&logo=json-web-tokens&logoColor=pink)
+![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=Docker&labelColor=black)
 
 ### Database 📂
 
@@ -49,7 +50,7 @@
 
 ### Package Manager ⬇️
 
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=flat-square&logo=yarn&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-red?style=flat&logo=Ubuntu&labelColor=black)
 ![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
 
 ### Cloud & Network ☁️
@@ -63,7 +64,7 @@
 
 ### Communication 🔗
 
-![Slack]( 	https://img.shields.io/badge/Slack-4A154B?style=flate-square&logo=slack&logoColor=white)
+![Slack]( https://img.shields.io/badge/Slack-4A154B?style=flate-square&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=flate-square&logo=discord&logoColor=white)
 ![MicrosoftTeams](https://img.shields.io/badge/Microsoft_Teams-6264A7?&logo=microsoft-teams&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?&logo=zoom&logoColor=white)
