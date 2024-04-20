@@ -37,8 +37,13 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
 ![Expressjs](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
 ![Sequelize](https://img.shields.io/badge/sequelize-323330?style=flat-square&logo=sequelize&logoColor=blue)
+![Sqitch](https://img.shields.io/badge/Sqitch-blue?style=flat&logo=Sqitch&labelColor=black)
 ![JsonWebToken](https://img.shields.io/badge/json%20web%20tokens-323330?style=flat-square&logo=json-web-tokens&logoColor=pink)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=Docker&labelColor=black)
+![ESLint](https://img.shields.io/badge/ESLint-purple?style=flat&logo=eslint&labelColor=black)
+![Prettier](https://img.shields.io/badge/Prettier-orange?style=flat&logo=Prettier&labelColor=black)
+
+
 
 ### Database 📂
 
