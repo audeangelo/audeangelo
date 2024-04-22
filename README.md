@@ -34,7 +34,7 @@
 
 ### Frameworks and more 🖌️
 
-![Node JS](https://img.shields.io/badge/Nodejs-green?style=flat&logo=Node.js&labelColor=black)
+![NodeJS](https://img.shields.io/badge/Node.js-%23339933?logo=Node.js&labelColor=black)
 ![Expressjs](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
 ![Sequelize](https://img.shields.io/badge/Sequelize-blue?style=flat&logo=Sequelize&labelColor=black)
 ![Sqitch](https://img.shields.io/badge/Sqitch-blue?style=flat&logo=Sqitch&labelColor=black)
