@@ -65,6 +65,7 @@
 
 ### Design and medias 🎨
 
+![Canva](https://img.shields.io/badge/Canva-white?logo=Canva)
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 
 ### Communication 🔗
@@ -73,6 +74,9 @@
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=flate-square&logo=discord&logoColor=white)
 ![MicrosoftTeams](https://img.shields.io/badge/Microsoft_Teams-6264A7?&logo=microsoft-teams&logoColor=white)
 ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?&logo=zoom&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-black?logo=Notion)
+
+
 
 
 
