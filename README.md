@@ -56,7 +56,8 @@
 ### Package Manager ⬇️
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-red?style=flat&logo=Ubuntu&labelColor=black)
-![Npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm)
+![Npm](https://img.shields.io/badge/npm-%23CB0000?logo=npm&labelColor=black)
+
 
 ### Cloud & Network ☁️
 
