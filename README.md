@@ -65,7 +65,7 @@
 
 ### Design and medias 🎨
 
-![Canva](https://img.shields.io/badge/Canva-white?logo=Canva&labelColor=black)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC?logo=Canva&labelColor=black)
 ![Photoshop](https://aleen42.github.io/badges/src/photoshop.svg)
 
 ### Communication 🔗
