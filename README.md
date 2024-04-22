@@ -36,7 +36,7 @@
 
 ![NodeJS](https://img.shields.io/badge/Node.js-%23339933?logo=Node.js&labelColor=black)
 ![Expressjs](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
-![Sequelize](https://img.shields.io/badge/Sequelize-blue?style=flat&logo=Sequelize&labelColor=black)
+![Sequelize](https://img.shields.io/badge/Sequelize-%234899C8?logo=Sequelize&labelColor=black)
 ![Sqitch](https://img.shields.io/badge/Sqitch-blue?style=flat&logo=Sqitch&labelColor=black)
 ![JsonWebToken](https://img.shields.io/badge/json%20web%20tokens-323330?style=flat-square&logo=json-web-tokens&logoColor=pink)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=Docker&labelColor=black)
